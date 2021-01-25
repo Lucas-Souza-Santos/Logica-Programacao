@@ -1,0 +1,16 @@
+Lógica de programação 
+    Pode ser definida como um conjunto de técnicas para encadear 
+    pensamento para encadear pensamenos a fim de atingir 
+    determinado objetivo.
+
+Algoritmo 
+    Sequência de passos que levam à solução de um problema.
+
+Problema: Trocar uma lâmpanda. 
+    Sequência de Passos para Solução:
+        1. Pegue uma escada;
+        2. Posicione a escada embaixo da lâmpanda;
+        3. Pegue uma lâmpada nova;
+        4. Suba na escada; 
+        5. Retire a lâmpada velha; 
+        6. Coloque a lâmpada nova. 
